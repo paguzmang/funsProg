@@ -59,5 +59,3 @@ conversion <- function(g,c) {
                        "Temperatura"=conversiont)
       conversion }  
 }
-#Ejemplo
-conversion(0,45)
